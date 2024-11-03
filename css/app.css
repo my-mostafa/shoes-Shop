@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(1, 141, 255);
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.cunteiner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1300px;
+    height: 350px;
+    margin: 30px;
+}
+
+.gk {
+    margin-top: 200px;
+    margin-left: 1200px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.pp {
+    display: flex;
+    margin: 30px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 300px;
+}
+
+#tp {
+    width: 200px;
+}
+
+
+
+.btback {
+    background-color: rgb(255, 0, 76);
+    border: none;
+    border-radius: 5px;
+}
+
+.bt {
+    margin-left: 53px;
+}
+.bt:hover {
+    background-color: rgb(251, 255, 0);
+    border: none;
+    border-radius: 5px;
+}
+
+.box {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    width: 900px;
+}
+
+.counteinerpro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: inherit;
+}
+.proimg {
+    margin: 0px;
+}
